@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Actividad_1_2</string>
+    <string name="plaintxt">Escriba algo</string>
+    <string name="txt1">Datos recibidos</string>
+    <string name="btn1">Siguiente actividad</string>
+    <string name="btn2">Volver</string>
+</resources>
